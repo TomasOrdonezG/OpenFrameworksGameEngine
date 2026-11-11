@@ -1,0 +1,18 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+UseTab: Never
+
+ColumnLimit: 150
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AccessModifierOffset: -4
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+SpaceInEmptyParentheses: false
+
+AlwaysBreakAfterReturnType: None
+Cpp11BracedListStyle: true
+
+AlwaysBreakTemplateDeclarations: true
